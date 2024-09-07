@@ -11,8 +11,8 @@ html {
 .page {
     position: relative;
     display: flex;
-    height: 100%;
     font-family: Raleway, sans-serif;
+    height: 100%;
     margin: 0;
 }
 
